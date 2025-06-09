@@ -7,8 +7,8 @@ local window = library:AddWindow("SN V1", {
 })
 
 -- Create tabs
-local mainTab = window:AddTab("Misc") -- Main tab
-local rebirthTab = window:AddTab("OP Stuff") -- Rebirth tab
+local mainTab = window:AddTab("Main") -- Main tab
+local rebirthTab = window:AddTab("Farm") -- Rebirth tab
 local killingTab = window:AddTab("Killing") -- Killing tab
 local rocksTab = window:AddTab("Fast Glitch") -- Rocks tab
 
